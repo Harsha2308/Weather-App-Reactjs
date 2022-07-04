@@ -1,0 +1,25 @@
+h2,p{
+  color: black;
+}
+.main{
+  background-color: rgb(42, 174, 245);
+  height: 400px;
+  width: 250px;
+  position: absolute;
+  left: 700px;
+  top: 100px;
+  border-radius: 30px;
+}
+.searchbox{
+  position: relative;
+  left: 30px;
+  top: 20px;
+  text-align: center;
+  border: 1px dotted lightgray;
+  border-radius: 20px;
+  padding: 15px;
+}
+.data{
+  margin-top: 80px;
+  margin-left: 70px;
+}
